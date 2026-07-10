@@ -36,19 +36,17 @@
 %
 % Candidate 5:
 % The target max thrust is increased to 50 N to provide a contraction ratio
-% of 8.16, within the recommended range. The chamber length is decreased to
-% provide L/D ratio of 3.
+% of 8.16, within the recommended range.
 % F = 50.000000 N
 % P_c = 1000.000000 kPa
-% C_F = 1.300000 
-% D_c = 20.000000 mm
-% L_c = 60.000000 mm
-% Th = 15.000000 deg
+%C_F = 1.300000 
+D_c = 20.000000 mm
+L_c = 60.000000 mm
+Th = 15.000000 deg
 % D_t = 6.997911 mm
 % eps_c = 8.168141 
 % L_n = 48.524459 mm
-% L_ch = 0.490088 m
-% LDrat = 3.000000
+% L_ch = 0.816814 m
 
 F   = 50;      % (N)
 P_c = 1000000; % (Pa)
